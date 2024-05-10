@@ -4,9 +4,9 @@
  
 You can find me on 
 
-<a target="_blank" href="mailto:claumartinezh@gmail.com"><img src="https://img.shields.io/badge/gmail-DDDDDD?style=for-the-badge&logo=gmail" alt="Claudia Martínez mail"/>
+<a target="_blank" href="mailto:claumartinezh@gmail.com"><img src="https://img.shields.io/badge/gmail-DDDDDD?style=for-the-badge&logo=gmail" alt="Claudia Martínez mail" title="claumartinezh@gmail.com">
 </a> 
-<a target="_blank" href="https://www.linkedin.com/in/claudia-mh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/claudia-mh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" title="Linkedin Profile"></a>
 
 #### Tech Stack:
 <img align="left" alt="HTML5" title='HTML5' height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
